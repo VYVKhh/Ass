@@ -1,0 +1,4 @@
+telebot
+chardet
+requests
+psutil
