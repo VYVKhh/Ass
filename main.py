@@ -1,3 +1,4 @@
+
 import sys
 import telebot
 from telebot import types
@@ -22,7 +23,7 @@ import telebot
 from telebot import types
 import threading
 # إعدادات البوتات
-BOT_TOKEN = '7083918711:AAE_55DuJbbMHCmEfpRb6vGe2LhOhamytKo'  # token 
+BOT_TOKEN = '8107614050:AAFBFhW_c5a2miZBG8UJYl-xPsslPunhckI'  # token 
 ADMIN_ID = '7066890270'  # id
 VIRUSTOTAL_API_KEY = 'a0df84fb7e065c823f5eeb12c000359863118f946b4733f8dbab049285ef7db7'  # هتحط هنا ال api
 ADMIN_CHANNEL = '@DAM_FAR'   # هنا هتحط قناتك اشتراك اجباري !!
